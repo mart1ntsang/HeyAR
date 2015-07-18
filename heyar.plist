@@ -9,22 +9,6 @@
 			<array>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://imhey.com.cn/ios/logo.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://imhey.com.cn/ios/logo.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
 					<string>http://imhey.com.cn/ios/hey-ar.ipa</string>
