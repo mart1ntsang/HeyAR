@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://imhey.com.cn/ios/hey-ar.ipa</string>
+					<string>http://imhey.com.cn/ios/hey.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.listong.ar</string>
+				<string>com.listong.hey.enterprise</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>HeyAR</string>
+				<string>Hey</string>
 				<key>title</key>
-				<string>HeyAR</string>
+				<string>Hey</string>
 			</dict>
 		</dict>
 	</array>
