@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://imhey.com.cn/heyar/heyar.ipa</string>
 				</dict>
+					<dict>  
+                    			<key>kind</key>  
+                    			<string>full-size-image</string>  
+                    			<key>needs-shine</key>  
+                    			<true/>  
+                    			<key>url</key>  
+                    			<string>http://imhey.com.cn/heyar/icon-60.png</string>  
+                		</dict>  
+                		<dict>  
+                    			<key>kind</key>  
+                    			<string>display-image</string>  
+                    			<key>needs-shine</key>  
+                    			<true/>  
+                    			<key>url</key>  
+                    			<string>http://imhey.com.cn/heyar/icon-40.png</string>  
+                		</dict>  
 			</array>
 			<key>metadata</key>
 			<dict>
